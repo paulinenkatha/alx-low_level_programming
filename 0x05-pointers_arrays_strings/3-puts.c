@@ -1,4 +1,4 @@
-include "main.h"
+include "_main.h"
 
 /**
  * _put - prints a string, followed by a new line, to stdout
